@@ -5,9 +5,10 @@
 This repo is for the UMN Data Analytics course homework assignment 4: "Pandas, Pandas, Pandas"
 
 This repo contains the following files:
-  A HerosOfPymoli folder containing:
-  - A 'Resources' folder with the csv file named 'purchase_data.csv'
-  - HeroesOfPymoli_notebook.ipynb which is the jupyter notebook containing the python script required for this section of the assignment
+  - A HerosOfPymoli folder containing:
+    - A 'Resources' folder with the csv file named 'purchase_data.csv'
+    - HeroesOfPymoli_notebook.ipynb which is the jupyter notebook containing the python script required for this section of the assignment
+  - This ReadMe file
 
 ### The Prompt for the allowed the student to pick either the Heros of Pymoli data or the Py City Schools data. Because I chose the Heros of Pymoli section, I will only show the prompt for that section of the assignment here:
 
